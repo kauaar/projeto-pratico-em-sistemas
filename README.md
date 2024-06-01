@@ -1,2 +1,3 @@
-# projeto-pratico-em-sistemas
-Pizza APP
+# pizza_app
+
+A new Flutter project.
